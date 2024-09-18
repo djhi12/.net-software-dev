@@ -1,0 +1,15 @@
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.sourcelink.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
