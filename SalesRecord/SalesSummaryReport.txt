@@ -1,0 +1,9 @@
+Sales Summary
+----------------------------
+
+Total Sales: $4,500.00
+
+Details:
+Filename: sale1.txt - Amount: $1,500.00
+Filename: sale2.txt - Amount: $2,500.00
+Filename: sale3.txt - Amount: $500.00

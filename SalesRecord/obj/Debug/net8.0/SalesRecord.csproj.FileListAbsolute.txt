@@ -1,0 +1,15 @@
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/bin/Debug/net8.0/SalesRecord
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/bin/Debug/net8.0/SalesRecord.deps.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/bin/Debug/net8.0/SalesRecord.runtimeconfig.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/bin/Debug/net8.0/SalesRecord.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/bin/Debug/net8.0/SalesRecord.pdb
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.AssemblyInfoInputs.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.AssemblyInfo.cs
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.csproj.CoreCompileInputs.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.sourcelink.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/refint/SalesRecord.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.pdb
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/SalesRecord.genruntimeconfig.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/SalesRecord/obj/Debug/net8.0/ref/SalesRecord.dll
