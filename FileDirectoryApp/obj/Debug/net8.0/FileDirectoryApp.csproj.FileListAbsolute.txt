@@ -1,0 +1,15 @@
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/bin/Debug/net8.0/FileDirectoryApp
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/bin/Debug/net8.0/FileDirectoryApp.deps.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/bin/Debug/net8.0/FileDirectoryApp.runtimeconfig.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/bin/Debug/net8.0/FileDirectoryApp.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/bin/Debug/net8.0/FileDirectoryApp.pdb
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.AssemblyInfoInputs.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.AssemblyInfo.cs
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.csproj.CoreCompileInputs.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.sourcelink.json
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/refint/FileDirectoryApp.dll
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.pdb
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/FileDirectoryApp.genruntimeconfig.cache
+/Users/djidorot/Documents/GitHub/.net-software-dev/FileDirectoryApp/obj/Debug/net8.0/ref/FileDirectoryApp.dll
