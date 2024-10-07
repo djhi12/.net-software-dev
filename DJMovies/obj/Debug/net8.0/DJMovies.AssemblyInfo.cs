@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DJMovies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac28bfc28f1ff03e69a4add563a6b5e4a8d2a41c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87632bf6e3d3fac099cc89845f331525726034a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DJMovies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DJMovies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
